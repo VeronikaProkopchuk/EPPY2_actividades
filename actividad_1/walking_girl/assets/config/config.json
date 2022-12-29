@@ -1,0 +1,17 @@
+{
+    "screen_size" : [640, 480],
+    "title" : "Walking_girl",
+    "fps" : 60,
+    "background_color" : [0,0,0],
+    "font" : {
+        "path" : ["walking_girl", "assets", "images", "AGENTS2.png"],
+        "columns" : 15,
+        "letter_size" : [20, 28],
+        "total_letters" : 44
+    },
+    "scroll" : {
+        "text" : "Crowley was currently doing 110 mph somewhere east of Slough. Nothing about him looked particularly demonic. at least by classical standards. No horns. no wings. Admittedly he was listening to a Best of Queen tape. but no conclusions should be drawn from this because all tapes left in a car for more than about a fortnight metamorphose into Best of Queen albums. No particularly demonic thoughts were going through his head. In fact. he was currently wondering vaguely who Moey and Chandon were.Crowley had dark hair and good cheekbones and he was wearing snakeskin shoes. or at least presumably he was wearing shoes. and he could do really weird things with his tongue. And. whenever he forgot himself. he had a tendency to hiss.",
+        "speed" : 0.1
+    }
+
+}
