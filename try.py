@@ -1,2 +1,1 @@
-print("hello worrld")
-print("what is going on")
+print("hello GitHub!")
