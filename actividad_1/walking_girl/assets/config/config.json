@@ -3,6 +3,12 @@
     "title" : "Walking_girl",
     "fps" : 60,
     "background_color" : [0,0,0],
+    "girl" : {
+        "path" : ["walking_girl", "assets", "images", "walking_animation.png"],
+        "total_sprites" : 20,
+        "columns" : 10,
+        "sprite_size" : [64, 128]
+    },
     "font" : {
         "path" : ["walking_girl", "assets", "images", "AGENTS2.png"],
         "columns" : 15,
