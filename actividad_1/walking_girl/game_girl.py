@@ -30,10 +30,7 @@ class Game_Girl:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 self.__running = False
-            if event.type == pygame.KEYDOWN:
-                self.__hero.handle_input(event.key, True)
-            if event.type == pygame.KEYUP:
-                self.__hero.handle_input(event.key, False)
+            
 
     def __update(self, delta_time):
         for scroll in self.__scrolls:
